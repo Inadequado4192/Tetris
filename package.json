@@ -1,0 +1,12 @@
+{
+    "name": "tetris",
+    "version": "1.0.0",
+    "description": "Just Tetris",
+    "scripts": {},
+    "author": "Inadequado4192",
+    "license": "ISC",
+    "dependencies": {
+        "inadequado": "^0.4.0",
+        "ts-loader": "^9.4.1"
+    }
+}
